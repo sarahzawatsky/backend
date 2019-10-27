@@ -1,5 +1,4 @@
 # Photonix
-### Frontend
 
 #### David Murray Raimon || Soo Kim || Jenny Godley || Sarah Zawatsky
 
